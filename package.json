@@ -38,8 +38,8 @@
       "electronInstallerDebian": {},
       "electronInstallerRedhat": {},
       "github_repository": {
-        "owner": "",
-        "name": ""
+        "owner": "OfficiallyUndead",
+        "name": "xstrife-desktop"
       },
       "windowsStoreConfig": {
         "packageName": "",
